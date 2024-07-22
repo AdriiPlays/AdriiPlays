@@ -32,23 +32,23 @@
 ###
 
 <div align="left">
-<a href="https://www.instagram.com" target="_blank">
+<a href="[https://www.instagram.com](https://www.instagram.com/adrian_muro25/)" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
 </a>
 
-<a href="https://www.twitch.tv" target="_blank">
+<a href="https://www.twitch.tv/adriiplays_" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo" />
 </a>
 
-<a href="https://www.discord.com" target="_blank">
+<a href="https://discordapp.com/users/224201732702470144" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" />
 </a>
 
-<a href="mailto:example@gmail.com" target="_blank">
+<a href="mailto:amuroj02@gmail.com" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
 </a>
 
-<a href="https://www.linkedin.com" target="_blank">
+<a href="https://www.linkedin.com/in/adri%C3%A1n-muro-jimenez-8b1839295/" target="_blank">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
 </a>
 
